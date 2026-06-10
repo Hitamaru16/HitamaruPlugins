@@ -11,7 +11,7 @@
         "LastUpdate": 0,
         "DownloadLinkInstall": "",
         "DownloadLinkUpdate": "",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "1.0.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "15",
         "IconUrl": "https://raw.githubusercontent.com/Hitamaru16/HitamaruPlugins/master/ChatPoll/icon.png"
